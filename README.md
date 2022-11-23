@@ -3,6 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dukindroid&label=Profile%20views&color=0e75b6&style=flat" alt="dukindroid" /> </p>
 
+<p>🙭 I'm Javier Gutiérrez, now a dedicated fullstack developer but had been deeply interested by the innovations of web dev since the good ol' times of Macromedia, through PHP and now embracing my career again as a JS developer. I quite never left web dev or code for what it takes, but life got me around and far from this grind for a while. The Henry bootcamp brought me back to my feet and kicking! I offer:
+
+⏵ 20+ years of knowledge in IT 
+⏵ Fresh JS/React UI development 
+⏵ The so much needed soft skills that only an IT person out of IT can get
+⏵ Good conversational english
+
+✔ I'm all ears 👂 and sure would love to hear about you! 
+dukintosh@gmail.com 
+https://github.com/dukindroid 
+https://dkndrd.com
+  </p>
 
 - 🔭 I’m currently working on [my portfolio](https://dkndrd.com)
 
